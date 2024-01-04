@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("applepie")
             Image("chef")
+            Image("am_us")
         }
         .padding()
     }
